@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Sums 2 binary numbers and a carry bit into 1 binary number and a carry bit
 
 ## How to test
 
-Explain how to use your project
+Hook it up and check if it works.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+dip switch for inputs and LEDs for outputs
