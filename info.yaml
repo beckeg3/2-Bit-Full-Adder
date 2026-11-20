@@ -4,7 +4,7 @@ project:
   title:        "2-bit-full-adder"      # Project title
   author:       "Group_50"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Sums 2 bianary numbers and a carry bit into 1 bianary number and a carry bit"      # One line description of what your project does
+  description:  "Sums 2 binary numbers and a carry bit into 1 binary number and a carry bit"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
