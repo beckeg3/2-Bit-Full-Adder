@@ -16,7 +16,7 @@ Edit the [info.yaml](info.yaml) and change the `wokwi_id` to the ID of your Wokw
 
 The GitHub action will automatically fetch the digital netlist from Wokwi and build the ASIC files.
 
-## Enable GitHub actions to build the results page 
+## Enable GitHub actions to build the results page
 
 - [Enabling GitHub Pages](https://tinytapeout.com/faq/#my-github-action-is-failing-on-the-pages-part)
 
